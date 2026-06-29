@@ -1,0 +1,60 @@
+🌐 Language Translator
+
+A simple and efficient language translator built to translate text between multiple languages quickly and accurately.
+
+✨ Features
+
+- 🌍 Translate text into multiple languages
+- ⚡ Fast and responsive interface
+- 🎨 Clean and user-friendly design
+- 📱 Works across different devices
+- 🔒 Simple and lightweight implementation
+
+🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Translation API
+
+🚀 Getting Started
+
+1. Clone the repository:
+   
+   git clone https://github.com/your-Abhigya-code/language-translator.git
+
+2. Open the project folder.
+
+3. Run "index.html" in your browser.
+
+📂 Project Structure
+
+language-translator/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+
+📸 Screenshot
+
+Add a screenshot of your application here.
+
+🔮 Future Improvements
+
+- Voice input
+- Text-to-speech
+- Translation history
+- Dark mode
+- Offline translation support
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository, create a new branch, and submit a pull request.
+
+📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+Developed with ❤️ by Abhigya-code
